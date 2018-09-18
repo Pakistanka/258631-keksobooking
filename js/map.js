@@ -206,8 +206,3 @@ var createMapCardNodes = function () {
 
 mapSection.insertBefore(createMapCardNodes(), mapFiltersContainer);
 mapPins.appendChild(createMapPinNodes());
-
-
-
-
-
